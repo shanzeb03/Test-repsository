@@ -1,3 +1,3 @@
 # Test-repsository
 This is a test
-##this is a sub heading
+## This is a sub heading
